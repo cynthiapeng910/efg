@@ -8,7 +8,7 @@ def contact_page():
     
     ### Direct Contact
     - **Email**: [sarah.johnson@example.com](mailto:sarah.johnson@example.com)
-    - **Phone**: +1 (123) 456-7890
+    - **Phone**: +852 46368146
     - **LinkedIn**: [linkedin.com/in/sarahjohnson](https://linkedin.com/in/sarahjohnson)
     - **GitHub**: [github.com/sarahjohnson](https://github.com/sarahjohnson)
     """)
