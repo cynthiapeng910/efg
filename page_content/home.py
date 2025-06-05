@@ -6,17 +6,17 @@ def home_page():
     left_col, right_col = st.columns(2)
     left_col.markdown(
         """
-        <h4>Sarah Johnson</h4>
+        <h4>Cynthia Peng</h4>
         <p>Recent Master's Graduate in Marketing<br>
-        Chinese University of Hong Kong<br>
+        The Chinese University of Hong Kong<br>
         12 Chak Cheung St., Ma Liu Shui, HKSAR<br>
-        <a href="mailto:sarah.johnson@example.com">sarah.johnson@example.com</a></p>
+        <a href="mailto:1155218678@link.cuhk.edu.hk">1155218678@link.cuhk.edu.hk</a></p>
         """,
         unsafe_allow_html=True
     )
 
     # add a photo to the right column
-    image_path = os.path.join("static", "images", "image.png")
+    image_path = os.path.join("D:", "桌面", "简历证件照签名", "证件照", "美签 51x51mm 照片.jpg")
     if os.path.exists(image_path):
         image = Image.open(image_path)
         right_col.image(image, width=200)
@@ -42,10 +42,10 @@ def home_page():
         - Programming Languages: Python, R
         - Data Analysis: Pandas, NumPy, Matplotlib, Seaborn
         - Machine Learning: Scikit-learn, TensorFlow, Keras
-        - Database: SQL, MongoDB
+        - Database: SQL
         - Data Visualization: Tableau, Power BI
         - Statistical Analysis: Hypothesis Testing, Regression Analysis
-        - Communication: Presentation Skills, Technical Writing
+        - Communication: Presentation Skills, Technical Writing，Copywriting
         """
     )
 
