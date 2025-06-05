@@ -7,10 +7,10 @@ def contact_page():
     Feel free to reach out to me through any of the following channels:
     
     ### Direct Contact
-    - **Email**: [sarah.johnson@example.com](mailto:sarah.johnson@example.com)
+    - **Email**: [11555218678@link.cuhk.edu.hk](mailto:1155218678@link.cuhk.edu.hk)
     - **Phone**: +852 46368146
-    - **LinkedIn**: [linkedin.com/in/sarahjohnson](https://linkedin.com/in/sarahjohnson)
-    - **GitHub**: [github.com/sarahjohnson](https://github.com/sarahjohnson)
+    - **LinkedIn**: [linkedin.com/in/siyan-cynthia-p-148b04241](https://www.linkedin.com/in/siyan-cynthia-p-148b04241/)
+    - **GitHub**: [github.com/cynthiapeng910](https://github.com/cynthiapeng910)
     """)
     
     st.markdown("### Send Me a Message")
@@ -30,7 +30,7 @@ def contact_page():
         submitted = st.form_submit_button("Send Message")
         
         if submitted:
-            st.success("Thanks for your message! I'll get back to you soon.")
+            st.success("Thank you for your message! I'll get back to you soon.")
             # In a real application, you would process the form data here
             # For example, send an email or store in a database
     
