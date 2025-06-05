@@ -16,7 +16,7 @@ def home_page():
     )
 
     # add a photo to the right column
-    image_path = r"D:\51x51mm profile pic.jpg"
+    image_path = os.path.join("images", "PENG Siyan profile pic.jpg")
     if os.path.exists(image_path):
         image = Image.open(image_path)
         right_col.image(image, width=200)
