@@ -38,6 +38,6 @@ def contact_page():
     
     st.markdown("""
     ### Office Hours
-    I'm generally available for virtual meetings Monday through Friday, 9 AM to 5 PM Eastern Time.
+    I'm generally available for virtual meetings on weekdays, 10 AM to 6 PM Eastern Time.
     Please email me to schedule a call or video conference.
     """)
