@@ -4,7 +4,7 @@ def contact_page():
     st.markdown("## Contact Me")
     
     st.markdown("""
-    Feel free to reach out to me through any of the following channels:
+    Thank you for your attention! Feel free to reach out to me through any of the following channels:
     
     ### Direct Contact
     - **Email**: [11555218678@link.cuhk.edu.hk](mailto:1155218678@link.cuhk.edu.hk)
