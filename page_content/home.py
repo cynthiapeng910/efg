@@ -16,7 +16,7 @@ def home_page():
     )
 
     # add a photo to the right column
-    image_path = os.path.join("D:", "桌面", "简历证件照签名", "证件照", "美签 51x51mm 照片.jpg")
+    image_path = os.path.join("D:", "51x51mm profile pic.jpg")
     if os.path.exists(image_path):
         image = Image.open(image_path)
         right_col.image(image, width=200)
