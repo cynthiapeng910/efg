@@ -37,27 +37,24 @@ def resume_page():
     st.markdown("""
     **Public Relations Intern, Burson**
     - *March 2024 – June 2024*
-    - Conducted passage writing and layout for ENZ (Education New Zealand)’s wechat public account, and completed alumni stories, single-sex schools, NCEA introduction, New Zealand 's high-ranking subjects, New Zealand's aerospace majors and other contents.
-    - Wrote the New Zealand education industry weekly report, selected related reports on the education field, New Zealand news reported domestically and industry competitors for the summarizing report. Recorded consumer interaction to and ensured that the source authority and data accuracy..
-    - Conducted the PR summarization of reports for ENZ Chengdu Agent Seminar and Lenovo Annual Conference, as a reference for PR results.
+    - Conducted passage writing and layout for ENZ (Education New Zealand)’s Wechat account, including alumni stories, single-sex schools, New Zealand 's highly-ranking subjects and other contents, attracting 100+ fans for the account, praised by the client.
+    - Wrote the New Zealand education industry weekly report on education field, New Zealand news reported domestically and industry competitors. Recorded consumer interaction to and ensured the source authority and data accuracy.
 
     **Account Executive Intern, Interone China**
     - *July 2023 – October 2023*
-    - Revised and integrated the content and images for BMW's new products, communicated with clients to make necessary modifications, and collaborated with the creative department to crop images and enhance the content until the new car materials are updated on the official website.
-    - Conducted consumer interaction analysis on KOC (Key Opinion Consumers) advertising for high-end car brands such as Rolls-Royce and Mercedes-Benz on platforms like Douyin and RedNote. Compiled the findings into reports to reflect the effectiveness of such advertisements.
-    - Conducted extensive research on domestic AI studios and prepared a PowerPoint presentation report to help clients gain insights into using AI for future work assistance.
+    - Revised and integrated official website content for BMW’s new products, communicated with clients to make required modifications, and collaborated with the Creative Department to modify images and text. Successfully helped update new material onto the website.
+    - Conducted consumer interaction analysis on KOC advertising for competitor high-end car brands such as Rolls-Royce and Mercedes-Benz on platforms like Douyin and RedNote. Compiled the findings into reports for the client’s reference.
     
 
     **Segment Marketing Intern, Schneider Electric**
     - *Feb 2023 - June 2023*
-    - Supported low-voltage power distribution China (LVC) marketing department in pre-development business research, drafting overview on aviation oil, aircraft manufacturing and other industries.
-    - Conducted event support by creating and proofreading PowerPoint, writing speech drafts, and checking the translation of Chinese to English materials of the corporate website.
-
+    - Supported pre-development marketing research for low-voltage power distribution China (LVC) marketing department, drafting overview on aviation oil, aircraft manufacturing and other industries, and reported individually to partner team.
+    - Conducted event support by creating and proofreading PowerPoint reports, writing speech drafts and checking the official translation.
+    
     **Brand Strategy Consulting Intern, Singapore Yisin Consulting**
     - *April 2022- August 2022*
-    - Carried out brand dynamics and consumer interaction analysis of leading brands of plant protein drinks on RedNote and formed weekly ppt reports, and summarized them in an operation document later, on average over 6 items per week.
+    - Carried out brand dynamics and consumer interaction analysis of leading brands in plant protein drinks on RedNote and formed weekly reports, and summarized findings into an operation document, on average over 6 items per week.
     - Participated in Lolo’s RedNote and Zhihu official account copywriting, poster creation and other activities, producing with an average of over 4 articles per week, over 50% of which are adopted officially by the account.
-    - Summarized relevant views on the development trend of the plant protein industry, conducted cold-calls and formed mind maps, excels and slides.
     """)
     
     st.header("Education")
