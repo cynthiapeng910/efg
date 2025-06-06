@@ -23,7 +23,7 @@ def education_page():
     
     exp1, exp2, exp3 = st.columns(3)
     
-    with cert1:
+    with exp1:
         st.markdown("""
         ### AWS Certified Data Analytics - Specialty
         **Amazon Web Services** | *March 2022*
@@ -31,7 +31,7 @@ def education_page():
         Demonstrated expertise in designing, building, securing, and maintaining analytics solutions on AWS.
         """)
         
-    with cert2:
+    with exp2:
         st.markdown("""
         ### TensorFlow Developer Certificate
         **Google** | *January 2022*
@@ -39,7 +39,7 @@ def education_page():
         Validated ability to develop deep learning models using TensorFlow.
         """)
         
-    with cert3:
+    with exp3:
         st.markdown("""
         ### Microsoft Certified: Azure Data Scientist Associate
         **Microsoft** | *November 2021*
