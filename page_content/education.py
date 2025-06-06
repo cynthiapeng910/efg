@@ -25,7 +25,7 @@ def education_page():
     
     with exp1:
         st.markdown("""
-        ### UIBE Radio and Television Center - English Anchor
+        ### UIBE Radio and Television Center-English Anchor
         *Sept 2021-Sept 2022*
         
         Conducted weekly lunchtime news broadcasts and monthly special program broadcasts (published on the Wechat public account UIBE Campus Voice), the number of listeners of which exceeded 700.
@@ -33,18 +33,18 @@ def education_page():
         
     with exp2:
         st.markdown("""
-        ### TensorFlow Developer Certificate
-        **Google** | *January 2022*
+        ### SIS-Student Career Development Center-Coordinator
+        *Sept 2020-Sept 2021*
         
-        Validated ability to develop deep learning models using TensorFlow.
+        Hosted 2 career development lectures, receiving hundreds of listeners.
         """)
         
     with exp3:
         st.markdown("""
-        ### Microsoft Certified: Azure Data Scientist Associate
-        **Microsoft** | *November 2021*
+        ### SIS-Student Academic Research Development Center-Coordinator
+        *Sept 2020-Sept 2021*
         
-        Demonstrated expertise in using Azure services to train, evaluate, and deploy machine learning models.
+        Contacted tutors and students for 2 academic courses throughout the whole semester.
         """)
     
     st.markdown("---")
@@ -52,15 +52,13 @@ def education_page():
     st.markdown("## Academic Projects")
     
     st.markdown("""
-    ### Sentiment Analysis of Product Reviews
-    - Developed a deep learning model to analyze customer reviews and predict sentiment
-    - Achieved 92% accuracy using BERT and fine-tuning techniques
-    - Implemented the model as a web application using Flask
+    ### Comparative Study of G7 & G20 in the View of New-type Major Country Coordination-Research Assistant
+    - Wrote a literature review on Argentina and the Belt and Road of over 6600 words
+    - Proposed 4 suggestions on the compilation of related textbooks and all were adopted by the professor
     
-    ### Image Classification for Medical Diagnosis
-    - Created a convolutional neural network to classify medical images
-    - Worked with a dataset of X-ray images to detect pneumonia
-    - Achieved 88% accuracy and deployed the model on a cloud platform
+    ### Rural Revitalization Research - Taking Yuanjia Village's poverty alleviation as example
+    - Researched on the revitalization of Yuanjia Village in Shaanxi Province, making interviews with local people and co-wrote a final report
+    - Our group's case was recommended to be published onto *People's Daily* and won the school-level scholarship of RMB 4,000
     """)
     
     st.markdown("---") 
