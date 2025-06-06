@@ -7,7 +7,7 @@ def contact_page():
     Thank you for your attention! Feel free to reach out to me through any of the following channels:
     
     ### Direct Contact
-    - **Email**: [1155218678@link.cuhk.edu.hk](mailto:1155218678@link.cuhk.edu.hk)
+    - **Email**: [cynthiapeng910@gmail.com](mailto:cynthiapeng910@gmail.com)
     - **Phone**: +852 46368146
     - **LinkedIn**: [linkedin.com/in/siyan-cynthia-p-148b04241](https://www.linkedin.com/in/siyan-cynthia-p-148b04241/)
     - **GitHub**: [github.com/cynthiapeng910](https://github.com/cynthiapeng910)
