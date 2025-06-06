@@ -36,7 +36,7 @@ def resume_page():
     st.header("Internship Experience")
     st.markdown("""
     **Software Engineer, TechCorp Inc.**
-    *June 2019 – Present*
+     *June 2019 – Present*
     - Developed and maintained web applications using Python and JavaScript.
     - Improved application performance by 30% through code optimization.
     - Led a team of 5 developers, conducting code reviews and mentoring junior engineers.
