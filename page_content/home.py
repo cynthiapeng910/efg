@@ -28,7 +28,7 @@ def home_page():
     st.markdown(
         """
         ### About Me
-       I am a recent master's graduate in Marketing (big data track) from The Chinese University of Hong Kong. My former Bachelor’s degree in Business English with a focus on intercultural communication has equipped me with a robust understanding of global business practices in diverse cultural contexts. During my academic journey, I developed a strong foundation in business acumen, statistical analysis, and data analysis.
+       I am a recent master's graduate in Marketing (big data track) from The Chinese University of Hong Kong. My former Bachelor’s degree in Business English with a focus on intercultural communication has equipped me with a robust understanding of global business practices in diverse cultural contexts. During my academic journey, I developed a strong foundation in business acumen, marketing intricacies, and data analysis.
 
        As part of my master's program, I completed several projects that involved working with real-world datasets and applying various data science techniques, such as providing advice for sellers on JD.com according to their provided transaction data. These projects allowed me to gain hands-on experience in data preprocessing, exploratory data analysis, model building, and evaluation.
        
