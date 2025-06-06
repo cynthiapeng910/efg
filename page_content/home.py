@@ -28,11 +28,11 @@ def home_page():
     st.markdown(
         """
         ### About Me
-        I am a recent master's graduate in Data Science from the University of XYZ, eager to apply my knowledge and skills in a professional setting. During my academic journey, I developed a strong foundation in statistical analysis, machine learning, and data visualization.
+       I am a recent master's graduate in Marketing (big data track) from The Chinese University of Hong Kong. My former Bachelor’s degree in Business English with a focus on intercultural communication has equipped me with a robust understanding of global business practices in diverse cultural contexts. During my academic journey, I developed a strong foundation in business acumen, statistical analysis, and data analysis.
 
-        As part of my master's program, I completed several projects that involved working with real-world datasets and applying various data science techniques. These projects allowed me to gain hands-on experience in data preprocessing, exploratory data analysis, model building, and evaluation.
-
-        I am passionate about leveraging data to drive insights and make informed decisions. I am a quick learner, a collaborative team player, and possess strong problem-solving skills. I am excited to contribute my skills and grow as a data science professional in a dynamic and challenging environment.
+       As part of my master's program, I completed several projects that involved working with real-world datasets and applying various data science techniques, such as providing advice for sellers on JD.com according to their provided transaction data. These projects allowed me to gain hands-on experience in data preprocessing, exploratory data analysis, model building, and evaluation.
+       
+       I am passionate about leveraging my business expertise and data dealing and analysis capability to drive insights and make informed decisions. At work, I focus on independent learning, team collaboration, and effective and efficient decisions. I am excited to contribute my skills and grow as a digital marketing professional in a dynamic, data-driven and challenging environment.
         """
     )
 
