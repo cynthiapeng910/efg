@@ -63,6 +63,7 @@ def resume_page():
     - University of International Business and Economics
     - *Graduated: July 2024*
     - GPA: 3.53/4.0
+    
     **Master of Science in Marketing**
     - The Chinese University of Hong Kong
     - *Graduating in: October 2025*
