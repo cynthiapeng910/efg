@@ -26,7 +26,7 @@ def education_page():
     with exp1:
         st.markdown("""
         ### UIBE Radio and Television Center - English Anchor
-        **Sept 2021-Sept 2022**
+        *Sept 2021-Sept 2022*
         
         Conducted weekly lunchtime news broadcasts and monthly special program broadcasts (published on the Wechat public account UIBE Campus Voice), the number of listeners of which exceeded 700.
         """)
