@@ -21,7 +21,7 @@ def resume_page():
 
     st.header("Contact Information")
     st.markdown("""
-    - **Email:** 1155218678@link.cuhk.edu.hk
+    - **Email:** cynthiapeng910@gmail.com
     - **Phone:** +852 46368146
     - **LinkedIn:** [linkedin.com/in/siyan-cynthia-p](https://www.linkedin.com/in/siyan-cynthia-p-148b04241/)
     - **GitHub:** [github.com/cynthiapeng910](https://github.com/cynthiapeng910)
@@ -30,13 +30,13 @@ def resume_page():
 
     st.header("Professional Summary")
     st.markdown("""
-    Highly skilled software engineer with over 5 years of experience in developing scalable web applications. Proven ability to lead teams, manage projects, and improve software performance. Seeking a challenging role to utilize my technical expertise and problem-solving skills.
+    Fresh graduate with rich internship experiences in marketing, public relations and advertising. Proven ability to work in teams, manage projects, and improve performance. Seeking a role to utilize my marketing expertise and problem-solving skills.
     """)
 
-    st.header("Work Experience")
+    st.header("Internship Experience")
     st.markdown("""
     **Software Engineer, TechCorp Inc.**
-    - *June 2019 – Present*
+    *June 2019 – Present*
     - Developed and maintained web applications using Python and JavaScript.
     - Improved application performance by 30% through code optimization.
     - Led a team of 5 developers, conducting code reviews and mentoring junior engineers.
@@ -85,15 +85,15 @@ def resume_page():
 
     st.header("Languages")
     st.markdown("""
-    - **English:** Native
-    - **Spanish:** Intermediate
+    - **Mandarin:** Native
+    - **English:** Fluent
+    - **Cantonese:** Intermediate
     """)
 
     st.header("Interests")
     st.markdown("""
-    - Open-source contributions
-    - Blogging about technology trends
-    - Hiking and outdoor activities
+    - Swimming, playing badminton, playing table tennis
+    - Animal protection volunteering activities
     """)
 
     st.markdown("---") 
