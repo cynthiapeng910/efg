@@ -42,8 +42,8 @@ def home_page():
         - Programming Languages: Python, R
         - Data Analysis: Pandas, NumPy, Matplotlib, Seaborn
         - Statistical Analysis: Hypothesis Testing, Regression Analysis
-        - Video processing: Capcut, Adobe Premiere
-        - Language level：IELTS 7.5, TEM-8 80, TEM-4 82, GRE 320
+        - Video Processing: Capcut, Adobe Premiere
+        - Language Level：IELTS 7.5, TEM-8 80, TEM-4 82, GRE 320
         - Communication: Presentation Skills, Technical Writing，Copywriting
         """
     )
