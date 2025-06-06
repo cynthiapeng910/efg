@@ -4,26 +4,24 @@ def education_page():
     st.markdown("## Education")
     
     st.markdown("""
-    ### Master of Science in Data Science
-    **University of XYZ** | *September 2020 - May 2022*
+    ### Master of Science in Marketing
+    **The Chinese University of Hong Kong** | *August 2024 - October 2025*
     
-    - GPA: 3.9/4.0
-    - Thesis: "Applying Machine Learning Techniques to Predict Customer Behavior in E-commerce"
-    - Relevant Coursework: Advanced Machine Learning, Deep Learning, Natural Language Processing, Data Visualization, Statistical Methods for Data Science, Big Data Analytics
+    - GPA: 3.40/4.0
+    - Relevant Coursework: Digital Marketing, Big Data Strategy, Marketing Research, Marketing Analytics, Buyer behavior, Pricing Analytics, Strategic Brand Management, Machine Learning in Marketing, Customer Analytics, Social Media Analytics
     
-    ### Bachelor of Science in Computer Science
-    **ABC University** | *September 2016 - May 2020*
+    ### Bachelor of Arts in Business English
+    **University of International Business and Economics** | *September 2020 - June 2024*
     
-    - GPA: 3.7/4.0
-    - Graduated with Honors
-    - Relevant Coursework: Algorithms and Data Structures, Database Systems, Computer Networks, Operating Systems, Software Engineering, Web Development
+    - GPA: 3.53/4.0
+    - Relevant Coursework: Integrated Business English, Principles of Marketing, Principles of Management, Media Marketing, Global Marketing, Business Data Processing and Analysis, Journalism and Communication Ethics 
     """)
     
     st.markdown("---")
     
-    st.markdown("## Certifications")
+    st.markdown("## Student Organization Work Experience")
     
-    cert1, cert2, cert3 = st.columns(3)
+    exp1, exp2, exp3 = st.columns(3)
     
     with cert1:
         st.markdown("""
