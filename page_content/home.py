@@ -6,11 +6,11 @@ def home_page():
     left_col, right_col = st.columns(2)
     left_col.markdown(
         """
-        <h4>Cynthia Peng</h4>
+        <h4>Siyan Peng</h4>
         <p>Recent Master's Graduate in Marketing<br>
         The Chinese University of Hong Kong<br>
         2-18 Lok King St., Sha Tin, N.T., HKSAR<br>
-        <a href="mailto:1155218678@link.cuhk.edu.hk">1155218678@link.cuhk.edu.hk</a></p>
+        <a href="mailto:cynthiapeng910@gmail.com">cynthiapeng910@gmail.com</a></p>
         """,
         unsafe_allow_html=True
     )
