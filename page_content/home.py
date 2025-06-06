@@ -9,7 +9,7 @@ def home_page():
         <h4>Cynthia Peng</h4>
         <p>Recent Master's Graduate in Marketing<br>
         The Chinese University of Hong Kong<br>
-        12 Chak Cheung St., Ma Liu Shui, HKSAR<br>
+        2-18 Lok King St., Sha Tin, N.T., HKSAR<br>
         <a href="mailto:1155218678@link.cuhk.edu.hk">1155218678@link.cuhk.edu.hk</a></p>
         """,
         unsafe_allow_html=True
