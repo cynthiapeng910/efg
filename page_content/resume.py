@@ -3,7 +3,7 @@ import base64
 import os
 
 def resume_page():
-    pdf_file_path = os.path.join("static", "docs", "resume.pdf")
+    pdf_file_path = os.path.join("static", "docs", "Siyan Peng-cv.pdf")
 
     if os.path.exists(pdf_file_path):
         with open(pdf_file_path, "rb") as pdf_file:
@@ -12,20 +12,20 @@ def resume_page():
         # Display the download button
         st.download_button(label="Download Resume",
                         data=PDFbyte,
-                        file_name="Jane_Doe_Resume.pdf",
+                        file_name="Siyan_Peng_Resume.pdf",
                         mime='application/octet-stream')
     else:
         st.warning("Resume PDF file not found")
 
-    st.title("Jane Doe")
+    st.title("Siyan Peng")
 
     st.header("Contact Information")
     st.markdown("""
-    - **Email:** jane.doe@example.com
-    - **Phone:** (123) 456-7890
-    - **LinkedIn:** [linkedin.com/in/janedoe](https://linkedin.com/in/janedoe)
-    - **GitHub:** [github.com/janedoe](https://github.com/janedoe)
-    - **Address:** 123 Main St, Anytown, USA
+    - **Email:** 1155218678@link.cuhk.edu.hk
+    - **Phone:** +852 46368146
+    - **LinkedIn:** [linkedin.com/in/siyan-cynthia-p](https://www.linkedin.com/in/siyan-cynthia-p-148b04241/)
+    - **GitHub:** [github.com/cynthiapeng910](https://github.com/cynthiapeng910)
+    - **Address:** 2-18 Lok King St, Sha Tin, N.T., Hong Kong
     """)
 
     st.header("Professional Summary")
