@@ -2,36 +2,38 @@ import streamlit as st
 from components.interactive import display_interactive_chart
 
 def experience_page():
-    st.markdown("## Professional Experience")
+    st.markdown("## Internship Experience")
     
     st.markdown("""
-    ### Data Science Intern
-    **TechCorp Inc.** | *June 2021 - August 2021*
+    ### Public Relations Intern
+    **Burson** | *March 2024 - June 2024*
     
-    - Analyzed customer data to identify patterns and trends using Python and SQL
-    - Developed a machine learning model to predict customer churn with 85% accuracy
-    - Created interactive dashboards using Tableau to visualize key performance indicators
-    - Presented findings and recommendations to senior management
+    - Conducted passage writing and layout for ENZ (Education New Zealand)’s Wechat account, including alumni stories, single-sex schools, New Zealand 's highly-ranking subjects and other contents, attracting 100+ fans for the account, praised by the client.
+    - Wrote the New Zealand education industry weekly report on education field, New Zealand news reported domestically and industry competitors. Recorded consumer interaction to and ensured the source authority and data accuracy.
     """)
     
     st.markdown("""
-    ### Research Assistant
-    **University of XYZ, Department of Computer Science** | *January 2021 - May 2021*
+    ### Account Executive Intern
+    **Interone China** | *July 2023 - October 2023*
     
-    - Assisted professor with research on natural language processing techniques
-    - Implemented and evaluated various machine learning algorithms for text classification
-    - Co-authored a paper that was accepted at a regional computer science conference
-    - Mentored undergraduate students on research methodologies and programming
+    - Revised and integrated official website content for BMW’s new products, communicated with clients to make required modifications, and collaborated with the Creative Department to modify images and text. Successfully helped update new material onto the website.
+    - Conducted consumer interaction analysis on KOC advertising for competitor high-end car brands such as Rolls-Royce and Mercedes-Benz on platforms like Douyin and RedNote. Compiled the findings into reports for the client’s reference..
     """)
     
     st.markdown("""
-    ### Software Development Intern
-    **InnovateTech Solutions** | *May 2020 - August 2020*
+    ### Segment Marketing Intern
+    **Schneider Electric** | *February 2023 - June 2023*
     
-    - Developed and maintained web applications using Django and React
-    - Collaborated with a team of developers using Agile methodologies
-    - Implemented new features based on user feedback and requirements
-    - Participated in code reviews and testing procedures
+    - Supported pre-development marketing research for low-voltage power distribution China (LVC) marketing department, drafting overview on aviation oil, aircraft manufacturing and other industries, and reported individually to partner team.
+    - Conducted event support by creating and proofreading PowerPoint reports, writing speech drafts and checking the official translation.
+    """)
+
+    st.markdown("""
+    ### Brand Strategy Consulting Intern
+    **Singapore Yisin Consulting** | *April 2022 - August 2022*
+
+    - Carried out brand dynamics and consumer interaction analysis of leading brands in plant protein drinks on RedNote and formed weekly reports, and summarized findings into an operation document, on average over 6 items per week.
+    - Participated in Lolo’s RedNote and Zhihu official account copywriting, poster creation and other activities, producing with an average of over 4 articles per week, over 50% of which are adopted officially by the account.
     """)
     
     st.markdown("---")
