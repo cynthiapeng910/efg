@@ -47,7 +47,7 @@ def resume_page():
     
 
     **Segment Marketing Intern, Schneider Electric**
-    - *Feb 2023 - June 2023*
+    - *February 2023 - June 2023*
     - Supported pre-development marketing research for low-voltage power distribution China (LVC) marketing department, drafting overview on aviation oil, aircraft manufacturing and other industries, and reported individually to partner team.
     - Conducted event support by creating and proofreading PowerPoint reports, writing speech drafts and checking the official translation.
     
