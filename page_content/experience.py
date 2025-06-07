@@ -60,6 +60,12 @@ def experience_page():
             "outcome": "Completed labeling and annotation of 1000+ corpus extracted sentences within 10 days."
         }
     ]
+
+    for i, project in enumerate(projects):
+        with st.expander(f"{project['title']}", expanded=i==0):
+            st.markdown(f"**Description:** {project['description']}")
+            st.markdown(f"**Skills Used:** {', '.join(project['skills'])}")
+            st.markdown(f"**Outcome:** {project['outcome']}")
     
     st.markdown("---")
     
