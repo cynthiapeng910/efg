@@ -48,7 +48,7 @@ def experience_page():
             "outcome": "Academic results and proposed suggestions on design of the textbooks were praised and adopted."
         },
         {
-            "title": "Rural Revitalization Research-Yuanjia Village as an example",
+            "title": "Rural Revitalization Research- taking Yuanjia Village as an example",
             "description": "Researched online on the revitalization of Yuanjia Village in Shaanxi Province, and made offline interviews with local people.",
             "skills": ["field survey", "real-time interviews", "academic writing", "team work"],
             "outcome": "Co-wrote a final report and of which the case was recommended to be published onto People's Daily and won the school-level scholarship of RMB 4,000."
