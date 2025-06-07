@@ -9,7 +9,7 @@ def home_page():
         <h4>Siyan Peng</h4>
         <p>Recent Master's Graduate in Marketing<br>
         The Chinese University of Hong Kong<br>
-        2-18 Lok King St., Sha Tin, N.T., HKSAR<br>
+        2-18 Lok King St., Sha Tin, N.T., Hong Kong<br>
         <a href="mailto:cynthiapeng910@gmail.com">cynthiapeng910@gmail.com</a></p>
         """,
         unsafe_allow_html=True
