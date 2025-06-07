@@ -2,7 +2,7 @@ import streamlit as st
 from components.interactive import display_interactive_chart
 
 def experience_page():
-    st.markdown("## Internship Experience")
+    st.markdown("## Internship Experiences")
     
     st.markdown("""
     ### Public Relations Intern
@@ -42,22 +42,22 @@ def experience_page():
     
     projects = [
         {
-            "title": "Customer Segmentation Analysis",
-            "description": "Used K-means clustering to segment customers based on purchasing behavior.",
-            "skills": ["Python", "scikit-learn", "Pandas", "Matplotlib"],
-            "outcome": "Identified 5 distinct customer segments that informed targeted marketing campaigns."
+            "title": "Comparative Study of G7 & G20 in the View of New-type Major Country Coordination",
+            "description": "As the research assistant to the professor, helped conduct research by developing literature review and providing advice for related textbooks.",
+            "skills": ["literature research", "business English", "academic writing"],
+            "outcome": "Academic results and proposed suggestions on design of the textbooks were all praised and adopted."
         },
         {
-            "title": "Predictive Maintenance System",
-            "description": "Developed a model to predict equipment failures before they occur.",
-            "skills": ["Python", "TensorFlow", "Time Series Analysis", "IoT"],
-            "outcome": "Reduced downtime by 23% and maintenance costs by 15%."
+            "title": "Rural Revitalization Research",
+            "description": "Researched online on the revitalization of Yuanjia Village in Shaanxi Province, and made offline interviews with local people.",
+            "skills": ["field survey", "offline interviews", "academic writing", "team work"],
+            "outcome": "Co-wrote a final report and was recommended to be published onto People's Daily and won the school-level scholarship of RMB 4,000."
         },
         {
-            "title": "Natural Language Processing for Customer Support",
-            "description": "Created a text classification system to automatically categorize customer support tickets.",
-            "skills": ["Python", "NLTK", "spaCy", "BERT"],
-            "outcome": "Improved response time by 35% and increased customer satisfaction scores."
+            "title": "Research on Construction and Application of Value-Oriented Quality Standards for Foreign Language Examinations",
+            "description": "Conducted factor identification and multi-factor labeling.",
+            "skills": ["Semantics", "Pragmatics", "Syntax", "Excel"],
+            "outcome": "Completed labeling and annotation of 1000+ corpus extraction sentences within 10 days."
         }
     ]
     
@@ -81,19 +81,17 @@ def experience_page():
     with col1:
         st.markdown("""
         ### Technical Skills
-        - **Programming Languages:** Python, R, SQL, JavaScript
-        - **Machine Learning:** scikit-learn, TensorFlow, PyTorch
-        - **Data Processing:** Pandas, NumPy, PySpark
-        - **Visualization:** Matplotlib, Seaborn, Tableau, PowerBI
-        - **Cloud Platforms:** AWS, Azure, Google Cloud
-        - **Web Development:** Django, Flask, React
+        - **Programming Languages:** Python, R
+        - **Data Analysis:** Pandas, NumPy, Matplotlib, Seaborn
+        - **Statistical Analysis:** Hypothesis Testing, Regression Analysis
+        - **Video Processing:** Capcut, Adobe Premiere
         """)
         
     with col2:
         st.markdown("""
         ### Soft Skills
-        - **Communication:** Excellent written and verbal communication
-        - **Teamwork:** Collaborative team player with experience in Agile environments
+        - **Communication:** Excellent written and verbal communication of Mandarin and English
+        - **Teamwork:** Collaborative team player with experience in agile environments
         - **Problem-solving:** Strong analytical and critical thinking abilities
         - **Time Management:** Efficient at prioritizing tasks and meeting deadlines
         - **Leadership:** Experience leading small teams and mentoring junior colleagues
