@@ -44,7 +44,7 @@ def home_page():
         - Statistical Analysis: Hypothesis Testing, Regression Analysis
         - Video Processing: Capcut, Adobe Premiere
         - Language Level：IELTS 7.5, TEM-8 80, TEM-4 82, GRE 320
-        - Communication: Presentation Skills, Technical Writing，Copywriting
+        - Communication: Presentation Skills, Technical Writing, Copywriting
         """
     )
 
