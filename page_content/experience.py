@@ -83,7 +83,7 @@ def experience_page():
         - **Teamwork:** Collaborative team player with experience in agile environments
         - **Problem-solving:** Strong analytical and critical thinking abilities
         - **Time Management:** Efficient at prioritizing tasks and meeting deadlines
-        - **Leadership:** Experience leading small teams and mentoring junior colleagues
+        - **Leadership:** Experience leading small teams and mentoring members
         - **Adaptability:** Quick learner who thrives in dynamic environments
         """)
     
