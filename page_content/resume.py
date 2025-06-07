@@ -25,31 +25,31 @@ def resume_page():
     - **Phone:** +852 46368146
     - **LinkedIn:** [linkedin.com/in/siyan-cynthia-p](https://www.linkedin.com/in/siyan-cynthia-p-148b04241/)
     - **GitHub:** [github.com/cynthiapeng910](https://github.com/cynthiapeng910)
-    - **Address:** 2-18 Lok King St, Sha Tin, N.T., Hong Kong
+    - **Address:** 2-18 Lok King St., Sha Tin, N.T., Hong Kong
     """)
 
     st.header("Professional Summary")
     st.markdown("""
-    Fresh graduate with rich internship experiences in marketing, public relations and advertising. Proven ability to work in teams, manage projects, and improve performance. Seeking a role to utilize my marketing expertise and problem-solving skills.
+    Fresh graduate with rich internship experiences in marketing, public relations and advertising. Proven ability to work in teams, manage projects, and improve performance. Currently seeking a role to utilize my marketing expertise and problem-solving skills.
     """)
 
     st.header("Internship Experience")
     st.markdown("""
     **Public Relations Intern, Burson**
     - *March 2024 – June 2024*
-    - Conducted passage writing and layout for ENZ (Education New Zealand)’s Wechat account, including alumni stories, single-sex schools, New Zealand 's highly-ranking subjects and other contents, attracting 100+ fans for the account, praised by the client.
-    - Wrote the New Zealand education industry weekly report on education field, New Zealand news reported domestically and industry competitors. Recorded consumer interaction to and ensured the source authority and data accuracy.
+    - Conducted passage writing and layout for ENZ (Education New Zealand)’s Wechat public account, including alumni stories, single-sex schools, New Zealand 's highly-ranking subjects and other contents, attracting 100+ fans for the account, praised by the client.
+    - Wrote the New Zealand education industry weekly report on education field, New Zealand news reported domestically and industry competitors. Recorded consumer interaction and ensured the source authority and data accuracy.
 
     **Account Executive Intern, Interone China**
     - *July 2023 – October 2023*
     - Revised and integrated official website content for BMW’s new products, communicated with clients to make required modifications, and collaborated with the Creative Department to modify images and text. Successfully helped update new material onto the website.
-    - Conducted consumer interaction analysis on KOC advertising for competitor high-end car brands such as Rolls-Royce and Mercedes-Benz on platforms like Douyin and RedNote. Compiled the findings into reports for the client’s reference.
+    - Conducted consumer interaction analysis on KOC advertising for competitor high-end car brands such as Rolls-Royce and Mercedes-Benz on platforms including Douyin and RedNote. Compiled the findings into reports for the client’s reference.
     
 
     **Segment Marketing Intern, Schneider Electric**
     - *February 2023 - June 2023*
     - Supported pre-development marketing research for low-voltage power distribution China (LVC) marketing department, drafting overview on aviation oil, aircraft manufacturing and other industries, and reported individually to partner team.
-    - Conducted event support by creating and proofreading PowerPoint reports, writing speech drafts and checking the official translation.
+    - Conducted event support by creating and proofreading slide reports, writing speech drafts and checking the official translation.
     
     **Brand Strategy Consulting Intern, Singapore Yisin Consulting**
     - *April 2022- August 2022*
