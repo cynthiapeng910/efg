@@ -30,9 +30,9 @@ def home_page():
         ### About Me
        I am a recent master's graduate in Marketing (big data track) from The Chinese University of Hong Kong. My former Bachelor’s degree in Business English with a focus on intercultural communication has equipped me with a robust understanding of global business practices in diverse cultural contexts. During my academic journey, I developed a strong foundation in business acumen, marketing intricacies, and data analysis.
 
-       As part of my master's program, I completed several projects that involved working with real-world datasets and applying various data science techniques, such as providing advice for sellers on JD.com according to their provided transaction data. These projects allowed me to gain hands-on experience in data preprocessing, exploratory data analysis, model building, and evaluation.
+       As part of my master's program, I completed several projects that involved working with real-world datasets and applying various data science techniques, such as providing advice for sellers on JD.com based on problems discovered from their provided transaction data. These projects allowed me to gain hands-on experience in data preprocessing, data analysis, model building, and evaluation.
        
-       I am passionate about leveraging my business expertise and data dealing and analysis capability to drive insights and make informed decisions. At work, I focus on independent learning, team collaboration, and effective and efficient decisions. I am excited to contribute my skills and grow as a digital marketing professional in a dynamic, data-driven and challenging environment.
+       I am passionate about leveraging my business expertise and data dealing and analysis capability to drive insights and make informed decisions. At work, I focus on independent learning, team collaboration, and effective and efficient decisions. I am excited to contribute my skills and grow as a digital marketing professional in a dynamic, data-driven and diversified environment.
         """
     )
 
