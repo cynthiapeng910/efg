@@ -106,7 +106,7 @@ def resume_page():
 
     st.header("Interests")
     st.markdown("""
-    - Sports: swimming, playing badminton and table tennis
+    - Sports: Swimming, playing badminton and table tennis
     - Music: Playing the piano, singing
     - Volunteering: Animal protection volunteering activities
     """)
